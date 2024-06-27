@@ -1,4 +1,4 @@
-package java_basics;
+package day1;
 
 public class Char_allocation {
 

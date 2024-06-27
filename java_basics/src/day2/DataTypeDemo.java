@@ -1,4 +1,4 @@
-package java_basics;
+package day2;
 
 public class DataTypeDemo {
 
